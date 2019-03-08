@@ -27,4 +27,4 @@ Medium
 
 ## Mentors
 
-[Matthieu Muffato](), [Steve Trevanion](), [Bruno Contreras-Moreira]()
+[Matthieu Muffato](https://www.ebi.ac.uk/about/people/matthieu-muffato), [Steve Trevanion](https://www.ebi.ac.uk/about/people/stephen-trevanion), [Bruno Contreras-Moreira](https://www.ebi.ac.uk/about/people/bruno-contreras-moreira)
