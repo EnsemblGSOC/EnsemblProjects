@@ -2,7 +2,9 @@
 
 ## Brief Explanation
 
-For many species, including plants, researchers are now producing not one but several genome assemblies. These can be combined to define what is called a pan-genome. Building on the Compara framework, the student will test different whole-genome alignment strategies and nucleotide gene phylogenies to produce a presence-absence (PAV) matrix. See examples [here](http://eead-csic-compbio.github.io/get_homologues/manual/manual.html#SECTION00058000000000000000).
+For many species, including plants, researchers are now producing not one but several genome assemblies. These can be combined to define what is called a pan-genome. Building on the Compara framework, the student will test different whole-genome alignment strategies and nucleotide gene phylogenies to produce a presence-absence (PAV) matrix. There are examples [here](http://eead-csic-compbio.github.io/get_homologues/manual/manual.html#SECTION00058000000000000000) and in [https://www.pnas.org/content/116/8/3036](https://www.pnas.org/content/116/8/3036), where the next figure was published:
+
+![Example PAV matrix with attached phylogeny](pics/F1.large.jpg)
 
 Input data for this project includes:
 - Two or more genome assemblies in FASTA format
